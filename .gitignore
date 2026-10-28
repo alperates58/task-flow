@@ -1,0 +1,7 @@
+.devhub
+node_modules
+dist
+dist-ssr
+bin
+*.log
+.DS_Store
